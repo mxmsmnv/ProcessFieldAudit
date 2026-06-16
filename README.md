@@ -4,6 +4,8 @@
 
 It is especially useful for projects with complex `RepeaterMatrix` setups and `FieldtypeMatrixType` fields.
 
+If this project helps your work, consider supporting future development: [GitHub Sponsors](https://github.com/sponsors/mxmsmnv) or [smnv.org/sponsor](https://smnv.org/sponsor/).  
+
 ## Features
 
 - Lists all fields with:
