@@ -15,7 +15,7 @@
  *          Admin → Modules → Refresh → Install "Field Audit"
  * Access:  Admin → Setup → Field Audit
  *
- * @author  Maxim Semenov <maxim@smnv.org> — smnv.org
+ * @author  Maxim Semenov <maxim@smnv.org> (smnv.org) — smnv.org
  * @version 1.0.0
  */
 class ProcessFieldAudit extends Process {
@@ -26,7 +26,7 @@ class ProcessFieldAudit extends Process {
             'version' => 103,
             'summary' => 'Lists all fields with types, MatrixType identifiers and matrix membership',
             'author'  => 'Maxim Semenov',
-            'href'    => 'https://github.com/mxmsmnv/InputfieldMatrixType',
+            'href'    => 'https://smnv.org',
             'icon'    => 'table',
             'page'    => [
                 'name'   => 'field-audit',
