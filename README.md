@@ -4,6 +4,10 @@
 
 It is especially useful for projects with complex `RepeaterMatrix` setups and `FieldtypeMatrixType` fields.
 
+![ProcessFieldAudit](assets/readme-doodle.png)
+
+It is made for multilingual and schema-heavy ProcessWire sites where developers and editors need a fast, navigable overview of fields, templates and translation gaps.
+
 **Author:** Maxim Semenov  
 **Website:** [smnv.org](https://smnv.org)  
 **Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
